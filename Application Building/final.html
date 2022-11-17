@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="{{ url_for('static', filename = 'style1.css') }}">
+    </head>
+    <body>
+        <div id="blue">
+        <h1 id="title">SNP<span style="float:right"><a href="\">Home</a> <a href="\">About</a> <a>Contact</a>
+            </span>
+        </h1>
+        </div>
+        <div id="white">
+            <center>
+            <form action="{{ url_for('y_predict') }}" method="post">
+            <h1><b><center>Phishing Website Detection using Machine Learning</center></b></h1>
+            <input type="text" id="url" name="url" value="{{ url_path }}" size="120"><br><br>
+            <input type="submit" style="font-size:20px" id="start" value="Predict">
+            </form>
+            {{ url }}
+            </center>
+        </div>
+        </body>
+</html>
