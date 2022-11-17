@@ -53,30 +53,4 @@ In order to detect and predict e-banking phishing websites, we proposed an intel
 
 ## FINAL OUTPUT:
 
-After executing the source codes we get the following outputs as follows 
-first we get a command prompt output with the URL over there we have to copy that particular URL and paste it in your web browser. In our project we have used google chrome web browser for the execution. 
 
-![local deployment](https://user-images.githubusercontent.com/113506353/202230772-c6e669c8-4175-4a34-a3ce-ea1fa1130c03.png)
-
-After the URL has been pasted we get the home page of our project web phishing detection.
-
-![1](https://user-images.githubusercontent.com/113506353/202231332-a7a9826f-0043-4a51-b527-09580eeca12c.png)
-![2](https://user-images.githubusercontent.com/113506353/202231747-a1cc9c30-b455-4ae1-a24c-f19cda3b7369.png)
-
-Here we have two options to predict the website one is we can click on check your website or you can click on get started to proceed your website prediction the diplay screen is as follows 
-
-![Screenshot (6)](https://user-images.githubusercontent.com/113506353/202232685-e674ce51-e879-4fdd-a05a-44d15c31b6be.png)
-
-## PREDICTION OF SAFE WEBSITE:
-Here we have used the original website as a prediction so now we have pasted that URL in our project web page and we clicked on Predict and here the result will be produced as "YOU ARE SAFE! THIS IS A LEGITIMATE WEBSITE."
-
-![3](https://user-images.githubusercontent.com/113506353/202233289-dcbced2a-a161-4959-a5ba-c1b3c3b2ac9a.png)
-
-## PREDICTION OF UNSAFE WEBSITE:
-Here we have used a fake website as a prediction so now we again pasted the fake URL in our project web page and we clicked on Predict and here the result will be produced as "YOU ARE ON THE WRONG SITE BE CAUTIONS!".
-
-![4](https://user-images.githubusercontent.com/113506353/202233859-725b00a2-eaf8-454c-9677-ec10d4c8adf8.png)
-
-## PROJECT COMPLETED BY TEAM SPMTR
-
-![Presentation1](https://user-images.githubusercontent.com/113506353/202261092-4f7e1430-f1e5-4d36-bd33-fc791c9b8b80.png)
