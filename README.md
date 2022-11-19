@@ -53,4 +53,5 @@ In order to detect and predict e-banking phishing websites, we proposed an intel
 
 ## FINAL OUTPUT:
 
+![Picture32](https://user-images.githubusercontent.com/113328813/202853757-92d8a1f3-3059-4603-b796-13129d61e64d.jpg)
 
