@@ -57,4 +57,6 @@ In order to detect and predict e-banking phishing websites, we proposed an intel
 
 ![Picture33](https://user-images.githubusercontent.com/113328813/202853805-d9aba554-a216-46c6-b6a9-02e2814e7fe2.jpg)
 
+![Picture35](https://user-images.githubusercontent.com/113328813/202853906-d179a9ea-7a09-43a2-be17-138a88cbee29.jpg)
+
 ![Picture36](https://user-images.githubusercontent.com/113328813/202853834-d3b28e73-5005-43b3-92bd-a5397bbd7fc2.jpg)
